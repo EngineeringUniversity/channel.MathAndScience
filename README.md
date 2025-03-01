@@ -2,7 +2,9 @@
 Home: https://www.youtube.com/@MathAndScience
 
 # playlist:
-https://www.youtube.com/@MathAndScience/playlists
+index: https://www.youtube.com/@MathAndScience/playlists
+
+- [Physics 1 Course - Algebra Based - Unit 4](https://www.youtube.com/playlist?list=PLnVYEpTNGNtXcjaUb7ETHqjZdrGADjEKU)
 
 # index:
 - [Lesson 1 - Voltage, Current, Resistance (Engineering Circuit Analysis)](https://youtu.be/OGa_b26eK2c)
